@@ -33,6 +33,7 @@ Section {
     height: 260px;
     margin-bottom: 20px;
     padding-right: 100px;
+    
 }
 
 Aside {
@@ -41,7 +42,7 @@ Aside {
     margin-bottom: 20px;
     width: 320px;
     height: 260px;
-
+    justify-content: center;
 }
 
 Article {
@@ -51,8 +52,9 @@ Article {
     height: 190px;
     text-align: center;
     padding-left: 20px;
-    padding-right: 60px;
+    padding-right: 20px;
     margin-top:40px;
+    
 }
 
 .headers {
@@ -62,6 +64,7 @@ Article {
     height: 50px;
     text-align: center;
     padding-right: 60px;
+
 }
 
 p {
