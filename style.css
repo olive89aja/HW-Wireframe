@@ -32,15 +32,17 @@ Section {
     width: 495px;
     height: 260px;
     margin-bottom: 20px;
-    padding-right: 100px;
-    
+    padding-right: 80px;
+    align-self: center;
+    overflow: hidden;
+ 
 }
 
 Aside {
     background: #ebebeb;
     display: inline-flex;
     margin-bottom: 20px;
-    width: 320px;
+    width: 340px;
     height: 260px;
     justify-content: center;
 }
